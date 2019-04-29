@@ -1,0 +1,96 @@
+{  
+   "Easy":[  
+      {  
+         "question":"5 + 7 = ?",
+         "answer":"12"
+      },
+      {  
+         "question":"8 + 7 = ?",
+         "answer":"15"
+      },
+      {  
+         "question":"5 * 5 = ?",
+         "answer":"25"
+      },
+      {  
+         "question":"8 - 7 = ?",
+         "answer":"1"
+      },
+      {  
+         "question":"88 - 8 = ?",
+         "answer":"80"
+      },
+      {  
+         "question":"81 / 9 = ?",
+         "answer":"9"
+      },
+      {  
+         "question":"8 * 8 = ?",
+         "answer":"64"
+      },
+      {  
+         "question":"64 / 64 = ?",
+         "answer":"1"
+      },
+      {  
+         "question":"11 + 29 = ?",
+         "answer":"40"
+      },
+      {  
+         "question":"80 - 7 = ?",
+         "answer":"73"
+      },
+      {  
+         "question":"100 * 10 = ?",
+         "answer":"1000"
+      },
+      {  
+         "question":"99 - 51 = ?",
+         "answer":"48"
+      },
+      {  
+         "question":"18 / 6 = ?",
+         "answer":"3"
+      },
+      {  
+         "question":"50 - 29 = ?",
+         "answer":"21"
+      },
+      {  
+         "question":"10* 7 = ?",
+         "answer":"70"
+      },
+      {  
+         "question":"8 *7 = ?",
+         "answer":"56"
+      }
+   ],
+   "Medium":[  
+      {  
+         "question":"8 ? 7 = 56",
+         "answer":"*"
+      },
+      {  
+         "question":"81 ? 9 = 9",
+         "answer":"/"
+      },
+      {  
+         "question":"45 ? 9 = 5",
+         "answer":"/"
+      }
+   ],
+   "Hard":[  
+      {  
+         "question":"8x ? 7y = 56xy",
+         "answer":"*"
+      },
+      {  
+         "question":"81x*x / 9x*x= ?",
+         "answer":"9"
+      },
+      {  
+         "question":"45xy ? (9) = 5xy",
+         "answer":"/"
+      }
+   ]
+}
